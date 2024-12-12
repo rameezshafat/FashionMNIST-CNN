@@ -6,8 +6,7 @@ Here’s a README file to accompany your Jupyter notebook. This will explain the
 # CNN Model Development in PyTorch 
 
 ### Overview
-This tutorial notebook provides a step-by-step guide to developing, training, and evaluating a Convolutional Neural Network (CNN) using PyTorch. We use the FashionMNIST dataset to build a CNN capable of classifying various clothing items. This notebook is ideal for those looking to deepen their understanding of CNNs and PyTorch essentials, including data loading, model building, and training processes.
-
+This notebook provides a step-by-step guide to developing, training, and evaluating a Convolutional Neural Network (CNN) using PyTorch. I used the FashionMNIST dataset to build a CNN capable of classifying various clothing items.
 ### Contents
 1. **Importing Libraries** – Import necessary libraries (e.g., `torch`, `torchvision`, `matplotlib`).
 2. **Data Loading and Transformation** – Load the FashionMNIST dataset and transform images into tensors.
